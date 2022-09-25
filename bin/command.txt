@@ -1,0 +1,6 @@
+open
+google
+youtube
+reddit
+whatsapp
+mail
